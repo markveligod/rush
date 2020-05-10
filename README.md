@@ -17,4 +17,3 @@ My attempt processing all possible Error's.
   
 ## Other  
 Author - _Mark Veligod_  
-School 21 - _ckakuna_
